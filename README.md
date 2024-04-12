@@ -1,35 +1,4 @@
 ## Description
-This project aims to connect user and organizational data for different systems. For example, you can use it to synchronize Feishu's data to WeChatWork. You can also synchronize data from Windows AD to GitLab. If you want to use it for data synchronization between other systems, you need to ensure that the system has basic open capabilities.
-
-## Installation
-
-```bash
-$ pnpm install
-```
-
-## Running the app
-
-```bash
-# development
-$ pnpm run start
-
-# watch mode
-$ pnpm run start:dev
-
-# production mode
-$ pnpm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ pnpm run test
-
-# e2e tests
-$ pnpm run test:e2e
-
-# test coverage
-$ pnpm run test:cov
-```
-
+一个 AI 营销聚合平台，可以在主流平台发短视频，软文，评论等。emmm...
+先开发主体功能，后面接入 AI 🤔, 如果有合适的 AI SDK 就不自己开发了
+先立个 Flag, 五一之后发个初版😂
